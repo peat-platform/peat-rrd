@@ -1,0 +1,9 @@
+{
+   "view_name": "OPENi",
+   "items"    : [
+      {
+         "hostname": "localhost",
+         "graph"   : "openi_object_api_report"
+      }
+   ]
+}
