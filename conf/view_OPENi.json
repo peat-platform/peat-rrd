@@ -4,6 +4,14 @@
       {
          "hostname": "localhost",
          "graph"   : "openi_object_api_report"
+      },
+      {
+         "hostname": "localhost",
+         "graph"   : "openi_type_api_report"
+      },
+      {
+         "hostname": "localhost",
+         "graph"   : "openi_cloudlet_api_report"
       }
    ]
 }

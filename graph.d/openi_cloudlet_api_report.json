@@ -1,0 +1,12 @@
+{
+   "report_name" : "openi_cloudlet_api_report",
+   "report_type" : "standard",
+   "title" : "Cloudlet API",
+   "vertical_label" : "Requests/sec",
+   "series" : [
+      { "metric": "openi_cloudlets_get", "color": "0F6AB4", "label": "GET", "line_width": "2", "type": "line" },
+      { "metric": "openi_cloudlets_put", "color": "C5862B", "label": "PUT", "line_width": "2", "type": "line" },
+      { "metric": "openi_cloudlets_post", "color": "10A54A", "label": "POST", "line_width": "2", "type": "line" },
+      { "metric": "openi_cloudlets_delete", "color": "A41E22", "label": "DELETE", "line_width": "2", "type": "line" }
+   ]
+}

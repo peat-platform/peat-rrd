@@ -1,7 +1,7 @@
 {
    "report_name" : "openi_object_api_report",
    "report_type" : "standard",
-   "title" : "Object_API",
+   "title" : "Object API",
    "vertical_label" : "Requests",
    "series" : [
       { "metric": "openi_objects_get", "color": "0F6AB4", "label": "GET", "line_width": "2", "type": "line" },
