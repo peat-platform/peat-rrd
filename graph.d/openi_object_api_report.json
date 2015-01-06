@@ -2,7 +2,7 @@
    "report_name" : "openi_object_api_report",
    "report_type" : "standard",
    "title" : "Object API",
-   "vertical_label" : "Requests",
+   "vertical_label" : "Requests/sec",
    "series" : [
       { "metric": "openi_objects_get", "color": "0F6AB4", "label": "GET", "line_width": "2", "type": "line" },
       { "metric": "openi_objects_put", "color": "C5862B", "label": "PUT", "line_width": "2", "type": "line" },
