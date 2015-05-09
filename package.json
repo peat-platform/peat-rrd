@@ -1,5 +1,5 @@
 {
-  "name": "openi_rrd",
+  "name": "peat-rrd",
   "version": "1.0.0",
   "description": "RRD Monitoring Library for OPENi",
   "main": "lib/main.js",
