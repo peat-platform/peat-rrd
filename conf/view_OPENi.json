@@ -1,17 +1,25 @@
 {
    "view_name": "OPENi",
-   "items"    : [
+   "items": [
       {
          "hostname": "localhost",
-         "graph"   : "openi_object_api_report"
+         "graph": "openi_cloudlet_api_report"
       },
       {
          "hostname": "localhost",
-         "graph"   : "openi_type_api_report"
+         "graph": "openi_cloudlet_stats_report"
       },
       {
          "hostname": "localhost",
-         "graph"   : "openi_cloudlet_api_report"
+         "graph": "openi_object_api_report"
+      },
+      {
+         "hostname": "localhost",
+         "graph": "openi_object_stats_report"
+      },
+      {
+         "hostname": "localhost",
+         "graph": "openi_type_api_report"
       }
    ]
 }
