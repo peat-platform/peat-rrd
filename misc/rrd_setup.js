@@ -2,7 +2,7 @@ var rrd = require("rrd")
 
 
 var filename;
-var rrd_root = '/var/lib/ganglia/rrds/OPENi Cluster/localhost/openi_';
+var rrd_root = '/var/lib/ganglia/rrds/PEAT_Cluster/localhost/peat_';
 
 var setup_rrds = {
    "objects"  : ["get", "post", "put", "delete"],

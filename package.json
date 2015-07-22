@@ -1,7 +1,7 @@
 {
   "name": "peat-rrd",
   "version": "1.0.0",
-  "description": "RRD Monitoring Library for OPENi",
+  "description": "RRD Monitoring Library for PEAT",
   "main": "lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
