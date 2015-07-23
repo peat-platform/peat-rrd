@@ -1,25 +1,25 @@
 {
-   "view_name": "OPENi",
+   "view_name": "peat",
    "items": [
       {
          "hostname": "localhost",
-         "graph": "openi_cloudlet_api_report"
+         "graph": "peat_cloudlet_api_report"
       },
       {
          "hostname": "localhost",
-         "graph": "openi_cloudlet_stats_report"
+         "graph": "peat_cloudlet_stats_report"
       },
       {
          "hostname": "localhost",
-         "graph": "openi_object_api_report"
+         "graph": "peat_object_api_report"
       },
       {
          "hostname": "localhost",
-         "graph": "openi_object_stats_report"
+         "graph": "peat_object_stats_report"
       },
       {
          "hostname": "localhost",
-         "graph": "openi_type_api_report"
+         "graph": "peat_type_api_report"
       }
    ]
 }

@@ -1,18 +1,18 @@
 {
-   "report_name": "openi_cloudlet_stats_report",
+   "report_name": "peat_cloudlet_stats_report",
    "report_type": "standard",
    "title": "cloudlet stats",
    "vertical_label": "Requests/sec",
    "series": [
       {
-         "metric": "openi_cloudlet_get",
+         "metric": "peat_cloudlet_get",
          "color": "C5862B",
          "label": "GET",
          "line_width": "2",
          "type": "line"
       },
       {
-         "metric": "openi_cloudlet_get_all",
+         "metric": "peat_cloudlet_get_all",
          "color": "99CC00",
          "label": "GET ALL",
          "line_width": "2",
