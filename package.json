@@ -9,7 +9,6 @@
   "author": "Dylan Conway",
   "license": "APACHE 2.0",
    "dependencies": {
-      "rrd"   : "Orion98MC/node_rrd",
       "async" : ""
    }
 }
